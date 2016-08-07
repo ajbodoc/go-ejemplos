@@ -1,2 +1,3 @@
 # go-ejemplos
-Ejemplos simples de programación  con lenguaje Go  
+Ejemplos simples de programación con lenguaje Go  
+Parte de un curso básico de Go
